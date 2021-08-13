@@ -6,10 +6,10 @@
         "dotnet lambda help",
         "All the command line options for the Lambda command can be specified in this file."
     ],
-    "profile"     : "NerdArray",
+    "profile"     : "Nerd Array~ssl337",
     "region"      : "us-west-2",
     "configuration" : "Release",
-    "framework"     : "netcoreapp2.1",
+    "framework"     : "netcoreapp3.1",
     "s3-prefix"     : "CrApiProxy/",
     "template"      : "serverless.template",
     "template-parameters" : "\"ShouldCreateBucket\"=\"false\";\"BucketName\"=\"\"",
